@@ -1,2 +1,3 @@
-# bgp-peering-simulation-lab
-BGP multihoming and peering lab with eBGP/iBGP configuration, prefix-lists, and route-map traffic engineering.
+# 🌐 Enterprise BGP Dual-Homed Internet Peering Lab
+
+Configuration and architecture guide for dual-ISP multihomed edge routing using BGP.
